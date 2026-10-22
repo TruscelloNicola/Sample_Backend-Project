@@ -1,10 +1,8 @@
 
 # DeerDiary
 
-## IMS AG Sidenote
+## Sidenote
 The current reposity is a **cut-down** version of the handed-in project. It includes only the backend, which has been developed solely by myself, with the exception of the hashing algorythm.
-
-Please keep in mind this project is **not completed**. Due to the **recent hand-in** for the project **(11.11.24)**, I did not have the time to improve the backend to a state of sufficiency by my standards.
 
 Swagger is only to be used as an overview, requests are preferably made through dedicated API-Interface testing applications like Insomnium or Postman.
 
